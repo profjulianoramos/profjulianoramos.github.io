@@ -1,6 +1,0 @@
-<nav class="menu">{% include menu.liquid list=site.data.menu %}</nav>
-<nav class="social">
-	{% for link in site.data.social %}
-		<a href="{{ link | replace_first: "/", "%%/" | replace: "%%//", "//" | replace: "%%", site.baseurl }}"></a>
-	{% endfor %}
-</nav>
