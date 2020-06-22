@@ -1,54 +1,11 @@
-title: Blog do Professor Juliano Ramos
-author: profjulianoramos
-email: profjulianoramos@gmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Tutoriais e dicas de Linux e Certificação LPI
-show_excerpts: true # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-sass:
-  sass_dir: _sass
-plainwhite:
-  name: Prof. Juliano Ramos
-  tagline: Consultor Linux
-  date_format: "%b %-d, %Y"
-  sitemap: true # set to true to generate sitemap.xml content
-  search: true # set to true to enable searchbar
-  dark_mode: true # set to true to add dark mode toggle
-  disqus_shortname: profjulianoramos
-  
-
-  # generate social links in footer
-  social_links:
-    twitter: profjulianotux
-    github:  profjulianoramos
-    linkedIn: in/profjulianoramos
-    rss: rss
-    # dribbble: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # facebook: jekyll
-    # soundcloud: jekyll
-    # telegram: jekyll
-
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
-theme: plainwhite
-
 plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
+  - jekyll-paginate
+
+title: Sweet 16
+description:
+    <a href="https://wordpress.org/themes/twentysixteen/" rel="external">Wordpress 2016 theme</a>
+    in <a href="https://jekyllrb.com/" rel="external">Jekyll</a>
+
+paginate: 10
+paginate_path: /page/:num/
+permalink: /:title/

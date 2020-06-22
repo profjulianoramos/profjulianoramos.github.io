@@ -1,0 +1,97 @@
+html::before,
+html::after {
+	background: #1a1a1a;
+	content: "";
+	display: block;
+	height: 21px;
+	left: 0;
+	position: fixed;
+	width: 100%;
+	z-index: 7;
+}
+
+html::before {
+	top: 0;
+}
+
+html::after {
+	bottom: 0;
+}
+
+html {
+	border: 21px solid #1a1a1a;
+}
+
+body > header {
+	padding: 3.9375rem 7.6923076923076923%
+}
+
+.brand {
+	margin-top: 1.3125rem;
+	margin-bottom: 1.3125rem;
+}
+
+.linear,
+.brand > h1 {
+	font-size: 1.75rem;
+	line-height: 1.25;
+}
+
+.brand > p {
+	display: block;
+}
+
+.toggle {
+	font-size: 1rem;
+	margin: 1.3125em 0;
+	padding: 0.8125em 0.875em 0.6875em;
+}
+
+header > .menu {
+	margin: 1.3125em 0;
+}
+
+main {
+	margin-bottom: 5.25em;
+}
+
+main,
+aside {
+	padding-right: 23.0769230769230769%
+}
+
+article {
+	margin-bottom: 5.25em;
+	margin-right: 0;
+}
+
+article > header > * {
+	font-size: 2.0625rem;
+	line-height: 2.625rem;
+}
+
+article ul,
+article ol {
+	margin-left: 0;
+}
+
+article li > ul {
+	margin-left: 1.25em;
+}
+
+article li > ol {
+	margin-left: 1.5em;
+}
+
+blockquote {
+	margin-left: -1.75rem;
+}
+
+.pagination > * {
+	display: inline-block;
+}
+
+.pagination > strong::before,
+.pagination > strong::after {
+	content: none;
+}

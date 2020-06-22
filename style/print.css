@@ -1,0 +1,10 @@
+.toggle,
+body > aside,
+nav {
+	display: none;
+}
+
+article nav,
+.brand > p {
+	display: block;
+}

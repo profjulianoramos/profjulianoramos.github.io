@@ -1,0 +1,186 @@
+a {
+	text-decoration: none;
+}
+
+a,
+.content a,
+.linear:hover,
+.linear:focus,
+.linear:active {
+	color: #007acc;
+}
+
+header a,
+footer a,
+.linear {
+	color: inherit;
+}
+
+a:hover,
+a:focus,
+a:active {
+	color: #686868;
+
+	.content & {
+		color: #686868;
+	}
+
+	header &,
+	footer & {
+		color: #007acc;
+	}
+}
+
+a:focus {
+	outline: thin dotted;
+}
+
+a:hover,
+a:active {
+	outline: 0;
+}
+
+header a:hover,
+footer a:hover,
+.content a {
+	box-shadow: 0 1px 0 0 currentColor;
+}
+
+header %heading a:hover,
+nav a:hover,
+.content a:hover,
+.content a:focus {
+	box-shadow: none;
+}
+
+.menu {
+	@extend .sans;
+	font-size: 1rem;
+	border-bottom: 1px solid #d1d1d1;
+}
+
+.menu ul {
+	list-style: none;
+	margin: 0;
+}
+
+.menu ul ul {
+	margin-left: 0.875em;
+}
+
+.menu li {
+	border-top: 1px solid #d1d1d1;
+	position: relative;
+}
+
+.menu li > a {
+	color: #1a1a1a;
+	display: block;
+	line-height: 1.3125;
+	padding: 0.84375em 0;
+}
+
+.menu li > a:hover,
+.menu li > a:focus {
+	color: #007acc;
+}
+
+header > .menu {
+	flex-basis: 100%;
+	margin: 0.875em 0;
+}
+
+footer > .menu {
+	margin-bottom: 1.75em;
+}
+
+main > nav {
+	border-top: 4px solid #1a1a1a;
+	border-bottom: none;
+	@extend .sans;
+}
+
+.linear {
+	border-bottom: 4px solid #1a1a1a;
+	display: block;
+	font-weight: 700;
+	padding: 1.75rem 0;
+}
+
+.linear > header {
+	letter-spacing: 0.0625rem;
+	line-height: 1.3125rem;
+	margin-bottom: 0.4375rem;
+	text-transform: uppercase;
+}
+
+.pagination {
+	font-size: 1.1875rem;
+	position: relative;
+}
+
+.pagination > * {
+	display: none;
+	letter-spacing: 0.015625rem; // 0.25px
+	line-height: 1;
+	margin: 0 0.875rem 0 -0.875rem;
+	padding: 0.96875rem 0.875rem 0.46875rem;
+	text-transform: uppercase;
+}
+
+.pagination > strong {
+	display: inline-block;
+}
+
+.pagination > strong::before {
+	content: "Page ";
+}
+
+.pagination > .prev,
+.pagination > .next {
+	background-color: #1a1a1a;
+	display: inline;
+	width: 52px;
+	height: 52px;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	position: absolute;
+	text-align: center;
+}
+
+.pagination > a:empty:hover {
+	background-color: #007acc;
+}
+
+.pagination > a::after {
+	color: #fff;
+}
+
+.pagination > span::after {
+	color: rgba(255, 255, 255, 0.3);
+}
+
+.pagination > .prev::after,
+.pagination > .next::after {
+	font-family: Genericons;
+	font-size: 32px;
+	line-height: 48px;
+	width: 52px;
+}
+
+.pagination > .prev {
+	right: 54px;
+}
+
+.pagination > .next {
+	right: 0px;
+}
+
+.pagination > .prev::after {
+	content: "\f430";
+}
+
+.pagination > .next::after {
+	content: "\f429";
+}
