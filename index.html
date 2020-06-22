@@ -1,68 +1,18 @@
 ---
 layout: default
 ---
-{% include series.liquid posts=paginator.posts %}
 
-{% unless paginator.posts %}
-	<header><h1 class="title">Nothing Found</h1></header>
-	<p>
-		It seems we can’t find what you’re looking for.
-		{% comment %} Perhaps searching can help. {% endcomment %}
-	</p>
-{% endunless %}
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-{% if paginator.total_pages > 1 %}
-	<nav class="pagination">
-		{% if paginator.page > 1 %}
-			<a rel="start" href="{{ site.baseurl }}/">1</a>
-		{% endif %}
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-		{% if paginator.previous_page > 2 %}
-			<span>…</span>
-		{% endif %}
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
 
-		{% if paginator.previous_page > 1 %}
-			<a rel="prev" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ paginator.previous_page }}</a>
-		{% endif %}
-
-		<strong>{{ paginator.page }}</strong>
-
-		{% if paginator.next_page %}
-			<a rel="next" href="{{ site.baseurl }}{{ paginator.next_page_path }}">{{ paginator.next_page }}</a>
-
-			{% assign omitted = paginator.next_page | plus: 1 %}
-			{% if omitted < paginator.total_pages %}
-				<span>…</span>
-			{% endif %}
-
-			{% if paginator.next_page < paginator.total_pages %}
-				<a href="{{ site.baseurl }}/page{{ paginator.total_pages }}">{{ paginator.total_pages }}</a>
-			{% endif %}
-		{% endif %}
-
-		{% if paginator.previous_page %}
-			<a class="prev" rel="prev" href="{{ site.baseurl }}{{ paginator.previous_page_path }}"></a>
-		{% else %}
-			<span class="prev"></span>
-		{% endif %}
-
-		{% if paginator.next_page %}
-			<a class="next" rel="next" href="{{ site.baseurl }}{{ paginator.next_page_path }}"></a>
-		{% else %}
-			<span class="next"></span>
-		{% endif %}
-	</nav>
-
-	{% if paginator.page == 1 %}
-		<template id="loader">
-			<link rel="stylesheet" href="loader.css">
-			<button type="button" id="load">Older posts</button>
-		</template>
-		<script>const pages = {{ paginator.total_pages }}</script>
-		<script async src="loader.js"></script>
-	{% endif %}
-{% endif %}
-
-{% comment %}
-vim: filetype=liquid
-{% endcomment %}
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
