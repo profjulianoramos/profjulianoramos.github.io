@@ -1,6 +1,6 @@
 # plainwhite
 
-Simplistic jekyll portfolio-style theme for writers.
+Simpliheme for writers.
 
 **Demo**: [thelehhman.com](https://thelehhman.com)
 
