@@ -1,6 +1,6 @@
 # plainwhite
 
-Simpliheme for writers.
+Simpliheme for w
 
 **Demo**: [thelehhman.com](https://thelehhman.com)
 
