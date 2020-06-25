@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conheça e teste o UbunTUX Linux
+title: Instalando flathub no fedora
 date:   2020-06-25 05:44 +0530
 categories: Fedora
 ---
