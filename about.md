@@ -18,3 +18,4 @@ Consultor desde 2004, quando obtive minha primeira certificação pela Conectiva
 
 [profjulianoramos@gmial.com](mailto:profjulianoramos@gmail.com)
 Whats/Telegram: +5511987168987
+
