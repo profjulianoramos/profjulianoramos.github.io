@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Arquivos zip no linux
-date:   2020-06-16 13:49:00 +0530
+date:   2020-06-27 13:34:00 +0530
 categories: desktop
 ---
+
 
 Zip sem sombras de dúvidas é um dos formatos mais conhecidos dos usuários Windows para compactação de arquivos. Seria ao equivalente ao Gzip, que nós do Mundo Linux, tanto utilizamos.
 
@@ -106,3 +107,4 @@ unzip -l arquivo.zip
 
 Commits
 - 27/06/2020 - 13:32 - Upload da publicação.
+- 27/06/2020 - 13:36 - Alteração do título
