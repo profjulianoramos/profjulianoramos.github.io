@@ -31,6 +31,11 @@ Atuo com aulas particulares sobre linux e servidores. Do básico ao avançado. V
 - Preparatório para certificação LPIC-1 102-500
 - Servidor Debian
 - Servidor Red Hat/Centos
+- Servidor SAMBA
+- Servidor Apache + PHP + Banco de Dados
+- Servidor Squid
+- Servidor Firewall
+
 
 
 
