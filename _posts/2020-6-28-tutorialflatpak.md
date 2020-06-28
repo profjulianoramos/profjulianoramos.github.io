@@ -127,9 +127,13 @@ Para remover, utilize:
 flatpak uninstall org.gimp.GIMP
 ```
 
+### Referência
+<https://docs.flatpak.org/en/latest/>
 
 
-## Veja também:
+
+
+### Veja também:
 - [Meus cursos](https://profjulianoramos.github.io/cursos/)
 - [Meu currículo](https://profjulianoramos.github.io/curriculo/)
 - [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
