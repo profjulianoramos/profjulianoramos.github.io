@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tutorial básico flatpak Linux
+title: Instalando o packet tracer no linux
 date:   2020-06-28 15:01:00 +0530
 categories: desktop
 ---
