@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gerenciamento de arquivos LPIC-1 101-500
-date:   2020-06-28 15:01:00 +0530
+date:   2020-06-29 10:008:00 +0530
 categories: Certificação LPI
 ---
 
