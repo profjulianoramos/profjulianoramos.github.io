@@ -22,3 +22,11 @@ Vale ressaltar que existe uma série de advertências sobre o uso do sistema. Co
 
 A Canonical teria que mudar todo seu conceito atual de desenvolvimento, o que significa também, uma alteração no seu produto de suporte. Empresas são bem sensatas quanto a mudanças. Isto pode ocorrer? Pode. Mas acredito que não tão cedo. 
 
+### Veja também:
+- [Meus cursos](https://profjulianoramos.github.io/cursos/)
+- [Meu currículo](https://profjulianoramos.github.io/curriculo/)
+- [Aula particular e consultoria](https://profjulianoramos.github.io/consultoria/)
+
+
+Commits
+- 28/06/2020 - 15:45 - Upload da publicação.
