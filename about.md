@@ -14,6 +14,8 @@ Certificado Linux Professional Institute desde 2002 - Nível II, Certificado SUS
 
 Consultor desde 2004, quando obtive minha primeira certificação pela Conectiva Linux.
 
+
+
 ### Contato
 
 [profjulianoramos@gmial.com](mailto:profjulianoramos@gmail.com)
