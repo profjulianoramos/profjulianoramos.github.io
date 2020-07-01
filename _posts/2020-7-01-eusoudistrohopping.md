@@ -5,7 +5,7 @@ date:   2020-07-01 15:41:08 +0530
 categories: Desktop
 ---
 
-Ultimamente está na moda se referir a alguém que muda sempre de distribuição de linuxcomo sendo um *Distro-hopping*. Normalmente as pessoas colocam de uma forma pejorativa, o que pode afastar novos usuários de alguns grupos. 
+Ultimamente está na moda se referir a alguém que muda sempre de distribuição de linux como sendo um *Distro-hopping*. Normalmente as pessoas colocam de uma forma pejorativa, o que pode afastar novos usuários de alguns grupos. 
 
 ![distros](/images/distros.jpg)
 
