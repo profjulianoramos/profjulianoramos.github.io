@@ -7,6 +7,8 @@ categories: Desktop
 
 Ultimamente está na moda se referir a alguém que muda sempre de distribuição de linuxcomo sendo um *Distro-hopping*. Normalmente as pessoas colocam de uma forma pejorativa, o que pode afastar novos usuários de alguns grupos. 
 
+![distros](/images/distros.jpg)
+
 Mas o correto é que *Distro-hopping* de "saltador de distro" deveria ser mais observado como um hobby que muitos possuem, e não vejo nada de ruim nisto, aliás, antes de tudo deixa eu dizer aqui:
 
 > Eu sou um Distro-Hopping! 
