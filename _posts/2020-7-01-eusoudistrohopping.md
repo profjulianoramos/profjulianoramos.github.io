@@ -71,4 +71,8 @@ Então para resumir, não se preocupe como as pessoas o chamam, seja você mesmo
 
 E se quiser sempre conhecer distro nova, vá para o meu canal no youtube! Toda semana estou apresentando algo novo.
 
-Vamos que vamos!
+*Vamos que vamos!*
+
+Artigo interessante:
+
+https://embeddedinventor.com/distro-hopping-what-why-how-explained/#:~:text=Distro%2DHopping%20is%20a%20term,that%20best%20suits%20their%20needs.
