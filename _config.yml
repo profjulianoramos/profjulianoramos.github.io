@@ -18,10 +18,12 @@ plainwhite:
   dark_mode: true # set to true to add dark mode toggle
   disqus_shortname: profjulianoramos
   navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
+    - title: Cursos
+      url: "/curso"
+    - title: Consultoria
+      url: "/consultoria.md"
+    - title: Currículo
+      url: "/curriculo.md"
   
 
   # generate social links in footer
