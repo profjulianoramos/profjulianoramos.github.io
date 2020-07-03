@@ -17,6 +17,13 @@ plainwhite:
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
   disqus_shortname: profjulianoramos
+  navigation:
+    - title: Cursos
+      url: "/curso"
+    - title: Consultoria
+      url: "http://profjulianoramos.com.br/consultoria/"
+    - title: Currículo
+      url: "http://profjulianoramos.com.br/curriculo/"
   
 
   # generate social links in footer
@@ -43,8 +50,8 @@ plainwhite:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.md
 
 # Build settings
 theme: plainwhite
