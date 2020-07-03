@@ -21,9 +21,9 @@ plainwhite:
     - title: Cursos
       url: "/curso"
     - title: Consultoria
-      url: "/consultoria.md"
+      url: "consultoria.md"
     - title: Currículo
-      url: "/curriculo.md"
+      url: "curriculo.md"
   
 
   # generate social links in footer
