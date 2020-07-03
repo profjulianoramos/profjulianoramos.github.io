@@ -50,6 +50,6 @@ Atuo realizando consultoria e trabalhos free-lancer para empresas diversas. Entr
 
 profjulianoramos@gmail.com
 
-**Telegram/Whatsapp:** +55 11 98716 8987
+**Telegram/Whatsapp:** +55 11 98716-8987
 
 
