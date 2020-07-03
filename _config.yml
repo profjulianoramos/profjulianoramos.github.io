@@ -21,9 +21,9 @@ plainwhite:
     - title: Cursos
       url: "/curso"
     - title: Consultoria
-      url: "consultoria"
+      url: "http://profjulianoramos.com.br/consultoria/"
     - title: Currículo
-      url: "curriculo"
+      url: "http://profjulianoramos.com.br/curriculo/"
   
 
   # generate social links in footer
