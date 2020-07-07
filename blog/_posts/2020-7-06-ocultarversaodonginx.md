@@ -15,7 +15,7 @@ curl -I https://your-domain
 
 Aliás, a saída do comando acima, também mostra versões do Apache. 
 
-![erro nginx](images/../../../images/nginx.jpg)
+![erro nginx](http://profjulianoramos.com.br/blog/images/nginx.jpg)
 
 Como você pode observar na saída de erro da imagem, temos a versão do servidor, o que é uma falha de segurança. 
 
