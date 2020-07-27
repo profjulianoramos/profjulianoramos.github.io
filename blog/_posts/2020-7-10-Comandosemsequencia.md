@@ -34,4 +34,4 @@ Neste caso o segundo comando só é executado comando o primeiro falha. Então, 
 ### Conclusão
 Aprender o Shell é um pré-requisito para que você se torne um administrador de sistemas linux. Se você está iniciando no linux, tente realizar suas tarefas (como instalar, remover e atualizar programas) pela linha de comando, evite as aplicações GUI. 
 
-Commit: 2020-07-10 13:12:08 +0530 upload do arquivo.
+Commit: 2020-07-10 13:12:08 +0530 upload.
