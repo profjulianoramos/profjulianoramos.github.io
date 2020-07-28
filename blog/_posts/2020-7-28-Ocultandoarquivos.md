@@ -36,4 +36,5 @@ Os arquivos são visiveis com um simples `ls`. Porém no gestor de arquivos eles
 
 
 
-Commit: 2020-07-28 19:50:08 +0530 upload do arquivo. 
+Commit: 2020-07-28 19:50:08 +0530 upload da publicação.
+
