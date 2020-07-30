@@ -30,7 +30,7 @@ Ao contrário do mundo engessado do Windows e do Mac OS o linux tem um mundo de 
 
 ### Ser distro-hopping já me ajudou profissionalmente
 
-Eu consigo me adaptar hoje em atender consultorias com diversos cenários. Atualmente, atuo em uma empresa com Centos e Fedora, sou consultor em outra com SUSE, atuo ministrando aula na Impacta Tecnologia que usa Debian e no meu computador, está o UbunTUX. 
+Eu consigo me adaptar hoje em atender consultorias com diversos cenários. Atualmente, atuo em uma empresa com Centos e Fedora, sou consultor em outra com SUSE, atuo ministrando aula na Impacta Tecnologia que usa Debian e no meu computador, está o Manjaro KDE.
 
 Para o meu canal no youtube, já devo ter apresentado uma boa parcela das distros do Distrowatch e sempre estou indo lá procurar coisa nova.
 
