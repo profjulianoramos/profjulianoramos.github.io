@@ -24,7 +24,7 @@ Encontre a partição que você deseja desativar o recurso e coloque: `noatime` 
 Exemplo da minha linha:
 
 ```bash
-/dev/sdb1       /mnt/backup     ext4            defaults,noatime,user 0 0
+/dev/sdb1 /mnt/backup   ext4  defaults,noatime,user 0 0
 ```
 
 
