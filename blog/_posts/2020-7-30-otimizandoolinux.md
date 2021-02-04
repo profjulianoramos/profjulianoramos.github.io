@@ -29,4 +29,4 @@ Exemplo da minha linha:
 
 
 
-**Nota:** Se você notar que algum aplicativo não está funcionando corretamente após essa alteração, pode ser necessário remover a entrada noatime do fstab e reiniciar novamente. 
+**Nota:** Se você notar que algum aplicativo não está funcionando corretamente após essa alteração, pode ser necessário, remover a entrada noatime do fstab e reiniciar novamente. 
