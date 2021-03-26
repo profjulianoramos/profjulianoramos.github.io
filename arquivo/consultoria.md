@@ -21,7 +21,7 @@ Atuo realizando consultoria e trabalhos free-lancer para empresas diversas. Entr
 - Servidor Debian
 - Servidor Red Hat/Centos
 - Shell Script
-
+- Servidores Diversos (consulte)
 
 ### Alguma fotos de eventos
 

@@ -17,6 +17,7 @@ plainwhite:
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
   disqus_shortname: profjulianoramos
+
   
 
   # generate social links in footer
