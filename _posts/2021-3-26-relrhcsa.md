@@ -4,13 +4,14 @@ title: Introdução ao Red Hat RHCSA
 date:   2021-03-26 17:49:00 +0530
 categories: Curso RHCSA
 ---
-Introdução ao Red Hat RHCSA
+O exame baseado em desempenho Red Hat Certified System Administrator (RHCSA) (EX200) testa o conhecimento dos candidatos em áreas comuns da administração de sistemas em uma ampla variedade de ambientes e situações de implantação. As habilidades testadas nesse exame são a base da administração de sistemas em todas as soluções Red Hat®.
+
 ====
 
 ![Bem Vindo](https://developers.redhat.com/sites/default/files/styles/large/public/RHEL-helloworld.png?itok=kTPVSU3E)
 
 
-Requisitos mínimos para o RHEL
+Requisitos mínimos para o Instalar o RHEL
 ---
 
 * 512 MB RAM
@@ -29,6 +30,16 @@ O Red Hat precisa de uma licença e um cadastro para seu download. Na opção "D
 
 Acesse:
 https://developers.redhat.com/sites/default/files/styles/large/public/Logo-Red_Hat-Enterprise_Linux_8-B-Standard-RGB.png?itok=keWYSR8I
+
+## A instalação
+O processo de instalação é semelhante ao processo de instalação do Centos 8. 
+
+## Instalação do Centos:
+https://youtu.be/Ugnju-MccUA
+
+## Registrando o Red Hat:
+https://youtu.be/5GbolwC991g
+
 
 ## Mudar linguagem para PT-BR
 Abra um terminal e digite:
@@ -121,6 +132,7 @@ Reinicie o sistema.
 
 Commits
 - 26/03/2021 - 17:48 - Primeira atualização
+- 26/03/2021 - 17:58 - Alteração da descrição do exame. Ajuste de layout do texto.
 
 **Deixe seu comentário.**
 
