@@ -8,7 +8,7 @@ permalink: /curriculo/
 ### Contato
 profjulianoramos@gmail.com
 
-**Telegram/Whatsapp:** +55 11 98716 8987
+**Telegram/Whatsapp:** +55 11 98602-7747
 
 ### Formação Acadêmica
 
@@ -22,7 +22,15 @@ RHCSA, Certificado CISCO CCNA e ITIL, autor de dezenas de e-books sobre a Admini
 de Sistemas Linux. Palestrante oficial da Campus Party e FLISOL. Usuário Linux desde 2000 e
 consultor desde 2004, quando obtive minha primeira certificação linux pela Conectiva Linux.
 
-### Experiência como Instrutor de Linux:
+### Experiência como Instrutor/consultor de Linux:
+
+**Cargo:** Gerencia de Midleware Senior
+Atuar com gerenciamento de sistemas livres | Linux | Ambiente de educação Moodle
+Empresa: Magna Tecnologia
+
+**Cargo:** Analista de produção Pleno
+Atuar com manutenção remota de servidores Red Hat/Centos
+Empresa: NAVA Tecnologia | Conectcar
 
 **Cargo:** Instrutor de Certificação Linux LPIC-1, 
 LPIC-2 e Comptia + Linux
