@@ -10,11 +10,15 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
+ navigation:
+    - title: Currículo
+      url: "/curriculo"
+    
   name: Prof. Juliano Ramos
   tagline: Consultor Linux
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-  search: false # set to true to enable searchbar
+  search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
   disqus_shortname: profjulianoramos
   
@@ -45,7 +49,7 @@ plainwhite:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
- - Quem sou?
+
 
 # Build settings
 theme: plainwhite
