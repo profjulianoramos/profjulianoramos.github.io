@@ -20,6 +20,15 @@ plainwhite:
   disqus_shortname: profjulianoramos
   analytics_id: "G-T9YM2L3PDX"
   
+  
+  
+  plainwhite:
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
+  
 
   # generate social links in footer
   social_links:
