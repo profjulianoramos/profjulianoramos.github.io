@@ -10,10 +10,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
- navigation:
-    - title: Currículo
-      url: "/curriculo"
-    
+   
   name: Prof. Juliano Ramos
   tagline: Consultor Linux
   date_format: "%b %-d, %Y"
