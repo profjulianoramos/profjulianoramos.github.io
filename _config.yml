@@ -2,7 +2,7 @@ title: Blog do Professor Juliano Ramos
 author: profjulianoramos
 email: profjulianoramos@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Tutoriais e dicas de Linux e Certificação LPI
+  Tutoriais e dicas de Linux e Certificações LPI, Comptia, SUSE e Red Hat.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -14,7 +14,7 @@ plainwhite:
   tagline: Consultor Linux
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
-  search: true # set to true to enable searchbar
+  search: false # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
   disqus_shortname: profjulianoramos
   
@@ -29,7 +29,7 @@ plainwhite:
     # flickr:   jekyll
     # instagram: jekyll
     # pinterest: jekyll
-    # youtube: jekyll
+    youtube: profjulianoramos
     # facebook: jekyll
     # soundcloud: jekyll
     # telegram: jekyll
@@ -45,6 +45,7 @@ plainwhite:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
+ - Quem sou?
 
 # Build settings
 theme: plainwhite
