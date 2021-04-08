@@ -53,7 +53,7 @@ O roteiro do Workshop:
 | 16:00 - 16:15h | Intervalo para café                                          |
 | 16:15 - 17:00h | Introdução a redes de computadores - Configuração manual de interface de rede no Red Hat e Ubuntu, Conexão remota SSH |
 | 17:00 - 18:00h | Instalação de ambiente gráfico, configuração de VPN, acesso remoto RDP |
-| 18:00 - 19:00h | Instalação de servidor WEB, Conceito de Firewall             |
+| 18:00 - 19:00h | Instalação de servidor WEB, Conceito de Firewall, Máquina Virtual Centos no AZURE (conceito de nuvem) |
 | 19:00 - 20:00h | Soft Skills, O que cai em uma entrevista de emprego? Quais cursos realizar? Quais certificações são essenciais quando começar a trabalhar, Divulgação de Vagas de Emprego e dicas de empregabilidade. |
 
 # Por que 12 horas de uma vez? Poderei revisar?
