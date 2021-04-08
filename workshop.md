@@ -20,7 +20,7 @@ O **Workshop** Analista de Redes Linux é destinado a pessoas que desejam atuar 
 
 ![](images/laptop.png)
 
-O Workshop será ao-vivo no dia 08/05/2021 - Sábado. No horário das: 08:00 as 17:00h com 1:30h de intervalo para almoço. O ambiente da videoconferência será o Microsoft Teams. 
+O ambiente da videoconferência será o Microsoft Teams. 
 
 ### Foco 100% no cenário corporativo atual
 
@@ -77,7 +77,9 @@ O Workshop é direto ao ponto. Você pode gravar todo o conteúdo se desejar. Ma
 
 ## Investimento 
 
-O valor é R$ 150,00. Pagamento único via PIX. Ganta agora mesmo sua matrícula, por que estou limitando este workshop em apenas 15 pessoas. 
+O valor é R$ 150,00. 
+
+**Pagamento único via PIX**. Ganta agora mesmo sua matrícula, por que estou limitando este workshop em apenas 15 pessoas. 
 
 Faça o PIX no valor estipulado para o e-mail: profjulianoramos@gmail.com 
 
@@ -85,6 +87,20 @@ Em seguida envie o comprovante para este mesmo e-mail ou pelo Whatsapp  (11) 986
 
 (Tire qualquer dúvida direto comigo neste número).
 
+**Pagamento com cartão de crédito:** 
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="7FAPB5F8Q7VSE">
+<input type="image" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - A maneira fácil e segura de enviar pagamentos online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+**Outra forma de pagamento?**
+
+Entre em contato comigo: Whatsapp  (11) 98602-7747 
+
 Lembre-se: 
 
 "Conhecimento é sempre o melhor investimento, ninguém tira de você." - Vamos que vamos, A vida é boa e sempre vai dar certo.
+
